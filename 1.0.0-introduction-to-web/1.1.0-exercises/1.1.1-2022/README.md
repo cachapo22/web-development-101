@@ -84,7 +84,7 @@ java 11.0.12 2021-07-20 LTS
 
 12. O que é docker ?    
 12.1 Quais suas vantagens ?  
-12.1 Instale o Docker em sua máquina. | Listar os comandos que utilizou.  
+12.2 Instale o Docker em sua máquina. | Listar os comandos que utilizou.  
 
 * Estudaremos containers Docker, a linguagem Java entre outras com calma futuramente, por enquanto é somente importante se familiarizar com os conceitos apresentados nesse exercicio e com os processos de instalação e configuração do ambiente de desenvolvimento. 
 ---
